@@ -1,0 +1,82 @@
+/* @font-face {
+    font-family:Meie Script;
+    src: url(../fonts/Meie_Script.zip);
+} */
+/* *{
+    font-family:Meie Script;
+} */
+
+h5+p {
+    background-color: palevioletred;
+    color: beige;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-style: italic;
+      font-size: medium;
+      font-weight: 200;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @font-face {
+    font-family:font;
+    src: url(../fonts/Sevillana.zip);
+}
+*{
+    font-family:my-font;
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+p{
+    background-color: paleturquoise;
+    font-family:NotoSerif;
+}
+
+
+
+
+
+
+
+.intro > h1{
+    color: palevioletred;
+    background-color: bisque;
+    opacity:1;
+    font-family:my-font;
+    font-size: 22px;
+    font-weight: lighter;
+    font-style: oblique;
+}
+
+.intro > h2{
+    color: bisque;
+    background-color: rgba(173, 59, 59, 0.3);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.intro > h3{
+    color: burlywood;
+}
+
+.intro a{
+    color: peru;
+      font-family: "Noto Serif", serif;
+
+} */
+
