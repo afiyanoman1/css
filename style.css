@@ -16,7 +16,14 @@ h5+p {
 
 
 }
-
+.me{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 1px pink;
+    font-style: italic;
+    font-weight: 700;
+}
 
 
 
